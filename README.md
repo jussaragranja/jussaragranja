@@ -10,7 +10,7 @@
 - 💻 Atualmente estudando machine learning/deep learning, e formas de utilizar esse conhecimento dentro da área.
 - 🌱 Sempre em busca de conhecimento
 - 🕵️‍♀️ Curiosa...
-- 🤝 Sempre disposta a compartilhar conhecimento, qualquer dúvida estou a disposição.
+- 🤝 Sempre disposta a compartilhar conhecimento, qualquer dúvida estou à disposição.
 
 ---
 
