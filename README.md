@@ -25,7 +25,7 @@
 
 ---
 
-### Linguagens e ferramentas:
+### Linguagens e Ferramentas:
 [<img align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/258px-Java_Logo.svg.png"/>][java]
 [<img align="left" alt="HTML5" width="60px" src="https://lh3.googleusercontent.com/proxy/zVnS5LE2xWoz-OtvkFIpnvElrKHVkmC-6qj2-yf6XRfQh4Pjfr1RWDeFrLdcNxd95WPJM3BEpx_GsTooBjvnq3wU6qAwM2i2kUcn">][python]
 [<img align="left" alt="HTML5" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/django-13-1175187.png">][django]
