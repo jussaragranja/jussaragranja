@@ -32,18 +32,19 @@
 [<img align="left" alt="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png">][ruby]
 [<img align="left" alt="HTML5" width="60px" src="https://5.imimg.com/data5/PR/TC/MY-42773694/selenium-testing-training-500x500.png">][selenium]
 [<img align="left" alt="HTML5" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU">][restassured]
+[<img align="left" alt="HTML5" width="80px" src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/capybara-150px_1.png">][capybara]
 [<img align="left" alt="HTML5" width="120px" src="https://qa-platforms.com/wp-content/uploads/2019/09/cucumber-black-512.png">][cucumber]
-[<img align="left" alt="HTML5" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
 [<img align="left" alt="Visual Studio Code" width="60px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
+[<img align="left" alt="HTML5" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
 [<img align="left" alt="HTML5" width="60px" src="https://www.selenium.dev/images/selenium_grid_logo_square.png">][grid]
 [<img align="left" alt="HTML5" width="50px" src="https://miro.medium.com/max/340/1*HP0Qss6BAQcv0UbHb21YFQ.png">][gitlabci]
 [<img align="left" alt="HTML5" width="60px" src="https://miro.medium.com/max/460/1*ahIiDbsR6s9XgR45nJJ5DA.png">][junit]
 [<img align="left" alt="HTML5" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHe0fn9Bp8q5iB_yhJOt35aZAD1yABrLjOAQ&usqp=CAU">][testng]
 [<img align="left" alt="HTML5" width="80px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/327261/images/5065937/pm-logo-vert.png">][postman]
-[<img align="left" alt="HTML5" width="80px" src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/capybara-150px_1.png">][capybara]
 [<img align="left" alt="HTML5" width="60px" src="https://svn.apache.org/repos/asf/jmeter/tags/v3_2/docs/images/jmeter_square.svg">][jmeter]
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
