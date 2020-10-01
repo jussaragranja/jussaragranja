@@ -25,23 +25,24 @@
 
 ---
 
-### Linguagens e Ferramentas:
-[<img align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/258px-Java_Logo.svg.png"/>][java]
-[<img align="left" alt="HTML5" width="60px" src="https://lh3.googleusercontent.com/proxy/zVnS5LE2xWoz-OtvkFIpnvElrKHVkmC-6qj2-yf6XRfQh4Pjfr1RWDeFrLdcNxd95WPJM3BEpx_GsTooBjvnq3wU6qAwM2i2kUcn">][python]
-[<img align="left" alt="HTML5" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/django-13-1175187.png">][django]
-[<img align="left" alt="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png">][ruby]
-[<img align="left" alt="HTML5" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU">][restassured]
-[<img align="left" alt="HTML5" width="60px" src="https://5.imimg.com/data5/PR/TC/MY-42773694/selenium-testing-training-500x500.png">][selenium]
-[<img align="left" alt="HTML5" width="120px" src="https://qa-platforms.com/wp-content/uploads/2019/09/cucumber-black-512.png">][cucumber]
-[<img align="left" alt="HTML5" width="80px" src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/capybara-150px_1.png">][capybara]
-[<img align="left" alt="HTML5" width="80px" src="https://www.selenium.dev/images/selenium_grid_logo_square.png">][grid]
-[<img align="left" alt="Visual Studio Code" width="80px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
-[<img align="left" alt="HTML5" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
-[<img align="left" alt="HTML5" width="50px" src="https://miro.medium.com/max/340/1*HP0Qss6BAQcv0UbHb21YFQ.png">][gitlabci]
-[<img align="left" alt="HTML5" width="60px" src="https://miro.medium.com/max/460/1*ahIiDbsR6s9XgR45nJJ5DA.png">][junit]
-[<img align="left" alt="HTML5" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHe0fn9Bp8q5iB_yhJOt35aZAD1yABrLjOAQ&usqp=CAU">][testng]
-[<img align="left" alt="HTML5" width="80px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/327261/images/5065937/pm-logo-vert.png">][postman]
-[<img align="left" alt="HTML5" width="60px" src="https://svn.apache.org/repos/asf/jmeter/tags/v3_2/docs/images/jmeter_square.svg">][jmeter]
+### Linguagens, Frameworks e Ferramentas:
+[<img align="left" alt="java icon" width="35px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/258px-Java_Logo.svg.png"/>][java]
+[<img align="left" alt="python logo" width="60px" src="https://lh3.googleusercontent.com/proxy/zVnS5LE2xWoz-OtvkFIpnvElrKHVkmC-6qj2-yf6XRfQh4Pjfr1RWDeFrLdcNxd95WPJM3BEpx_GsTooBjvnq3wU6qAwM2i2kUcn">][python]
+[<img align="left" alt="djengo documentation" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/django-13-1175187.png">][django]
+[<img align="left" alt="ruby logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png">][ruby]
+[<img align="left" alt="rest-assured" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU">][restassured]
+[<img align="left" alt="selenium" width="60px" src="https://5.imimg.com/data5/PR/TC/MY-42773694/selenium-testing-training-500x500.png">][selenium]
+[<img align="left" alt="cucumber" width="120px" src="https://qa-platforms.com/wp-content/uploads/2019/09/cucumber-black-512.png">][cucumber]
+[<img align="left" alt="capybara" width="80px" src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/capybara-150px_1.png">][capybara]
+[<img align="left" alt="grid" width="80px" src="https://www.selenium.dev/images/selenium_grid_logo_square.png">][grid]
+[<img align="left" alt="jenkins" width="80px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
+[<img align="left" alt="docker" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
+[<img align="left" alt="gitlabci icon" width="50px" src="https://miro.medium.com/max/340/1*HP0Qss6BAQcv0UbHb21YFQ.png">][gitlabci]
+[<img align="left" alt="junit documentation" width="60px" src="https://miro.medium.com/max/460/1*ahIiDbsR6s9XgR45nJJ5DA.png">][junit]
+[<img align="left" alt="testng" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHe0fn9Bp8q5iB_yhJOt35aZAD1yABrLjOAQ&usqp=CAU">][testng]
+[<img align="left" alt="postman" width="80px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/327261/images/5065937/pm-logo-vert.png">][postman]
+[<img align="left" alt="jmeter logo" width="60px" src="https://svn.apache.org/repos/asf/jmeter/tags/v3_2/docs/images/jmeter_square.svg">][jmeter]
+[<img align="left" alt="robotframework" width="60px" src="https://3.bp.blogspot.com/-UoTTtVe4t0Y/WujzP9IF7II/AAAAAAAAAiY/DnBjFV7CICsTZsYl308fofPNhOh5m-WXACLcBGAs/s1600/robotfw_mark_black_low.png">][robotframework]
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -69,7 +70,7 @@
 [linkedin]: https://www.linkedin.com/in/jussaragranja/
 [gitlab]: https://gitlab.com/jussaragranja/
 [gitlabci]: https://docs.gitlab.com/ee/ci/
-[instagram]: https://www.instagram.com/ivan.jonatas/
+[instagram]: https://www.instagram.com/jussaragranja/
 [twitter]: https://twitter.com/JuuhGranja
 [java]: https://docs.oracle.com/en/java/
 [selenium]: https://www.selenium.dev/documentation/en/
@@ -93,5 +94,7 @@
 [mongodb]: https://www.mongodb.com/
 [sqlite]: https://www.sqlite.org/docs.html
 [sqlserver]: https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15
+[robotframework]: http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
+
 
 
