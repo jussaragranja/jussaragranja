@@ -6,7 +6,7 @@
 
 ### Sobre mim
 - :earth_americas: João Pessoa - Paraíba
-- :woman_technologist: Apaixonada por automação de testes
+- :woman_technologist: Apaixonada por devenvolvimento de software e automação de testes
 - 💻 Atualmente estudando machine learning/deep learning, e formas de utilizar esse conhecimento dentro da área.
 - 🌱 Sempre em busca de conhecimento
 - 🕵️‍♀️ Curiosa...
