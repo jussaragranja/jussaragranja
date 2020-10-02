@@ -50,12 +50,12 @@
 ---
 
 ### Banco de Dados:
-[<img align="left" alt="HTML5" width="110px" src="https://www.baaer.eu/wp-content/uploads/2018/07/Slide1.jpg">][oracle]
-[<img align="left" alt="HTML5" width="60px" src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png">][sqlserver]
-[<img align="left" alt="HTML5" width="80px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">][mysql]
-[<img align="left" alt="HTML5" width="60px" src="https://stato.blog.br/loja/image/cache/catalog/LOGO/postgresql-logo-500x500.png">][postgresql]
-[<img align="left" alt="HTML5" width="120px" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775">][mongodb]
-[<img align="left" alt="HTML5" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png">][sqlite]
+[<img align="left" alt="oracle" width="110px" src="https://www.baaer.eu/wp-content/uploads/2018/07/Slide1.jpg">][oracle]
+[<img align="left" alt="sqlserver" width="60px" src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png">][sqlserver]
+[<img align="left" alt="mysql" width="80px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">][mysql]
+[<img align="left" alt="postgresql" width="60px" src="https://stato.blog.br/loja/image/cache/catalog/LOGO/postgresql-logo-500x500.png">][postgresql]
+[<img align="left" alt="mongodb" width="120px" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775">][mongodb]
+[<img align="left" alt="sqlite" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png">][sqlite]
 
 
 <br/><br/><br/><br/>
