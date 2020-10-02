@@ -63,7 +63,8 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja)](https://github.com/jussaragranja/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&theme=dracula)](https://github.com/jussaragranja/)
+<img align="left" alt="separador" width="60px" src="https://images.vexels.com/media/users/3/135787/isolated/lists/d89c8587ebb14f1356c4deb9fb7c56b0-divisor-ornamentado-decorativo-6.png">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jussaragranja&show_icons=true&theme=dracula)](https://github.com/jussaragranja/)
 <br/>
 
