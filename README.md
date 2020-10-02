@@ -28,7 +28,7 @@
 
 ### Linguagens, Frameworks e Ferramentas:
 [<img align="left" alt="java icon" width="35px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/258px-Java_Logo.svg.png"/>][java]
-[<img align="left" alt="python logo" width="60px" src="https://lh3.googleusercontent.com/proxy/zVnS5LE2xWoz-OtvkFIpnvElrKHVkmC-6qj2-yf6XRfQh4Pjfr1RWDeFrLdcNxd95WPJM3BEpx_GsTooBjvnq3wU6qAwM2i2kUcn">][python]
+[<img align="left" alt="python logo" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">][python]
 [<img align="left" alt="djengo documentation" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/django-13-1175187.png">][django]
 [<img align="left" alt="ruby logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png">][ruby]
 [<img align="left" alt="rest-assured" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU">][restassured]
