@@ -1,3 +1,5 @@
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jussaragranja&repo=jussaragranja)](https://github.com/jussaragranja/jussaragranja)
+
 <img align="right" width="350" src="https://www.edureka.co/blog/wp-content/uploads/2019/03/1blog-1-405x300.png">
 
 ### Ju 👩🏾‍💻 - Analista de Qualidade de Software - QA
