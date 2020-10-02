@@ -6,7 +6,8 @@
 
 ### Sobre mim:
 - :earth_americas: João Pessoa - Paraíba
-- :woman_technologist: Apaixonada pelo processo de devenvolvimento de software e automação de testes
+- 👩🏾‍🎓 Sistemas de Informação - UNIESP
+- 👩🏾‍💻 Apaixonada pelo processo de devenvolvimento de software e automação de testes
 - 💻 Atualmente estudando machine learning/deep learning, e formas de utilizar esse conhecimento dentro da área.
 - 🌱 Sempre em busca de conhecimento
 - 🕵️‍♀️ Curiosa...
