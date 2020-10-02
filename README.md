@@ -28,14 +28,14 @@
 
 ### Linguagens, Frameworks e Ferramentas:
 [<img align="left" alt="java icon" width="35px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/258px-Java_Logo.svg.png"/>][java]
-[<img align="left" alt="python logo" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">][python]
+[<img align="left" alt="python logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">][python]
 [<img align="left" alt="djengo documentation" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/django-13-1175187.png">][django]
 [<img align="left" alt="ruby logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png">][ruby]
 [<img align="left" alt="rest-assured" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU">][restassured]
 [<img align="left" alt="selenium" width="60px" src="https://5.imimg.com/data5/PR/TC/MY-42773694/selenium-testing-training-500x500.png">][selenium]
 [<img align="left" alt="cucumber" width="120px" src="https://qa-platforms.com/wp-content/uploads/2019/09/cucumber-black-512.png">][cucumber]
-[<img align="left" alt="capybara" width="80px" src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/capybara-150px_1.png">][capybara]
-[<img align="left" alt="grid" width="80px" src="https://www.selenium.dev/images/selenium_grid_logo_square.png">][grid]
+[<img align="left" alt="capybara" width="60px" src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/capybara-150px_1.png">][capybara]
+[<img align="left" alt="grid" width="60px" src="https://www.selenium.dev/images/selenium_grid_logo_square.png">][grid]
 [<img align="left" alt="jenkins" width="80px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
 [<img align="left" alt="docker" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
 [<img align="left" alt="gitlabci icon" width="50px" src="https://miro.medium.com/max/340/1*HP0Qss6BAQcv0UbHb21YFQ.png">][gitlabci]
