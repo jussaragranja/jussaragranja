@@ -64,7 +64,6 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&theme=dracula)](https://github.com/jussaragranja/)
-<br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jussaragranja&show_icons=true&theme=dracula)](https://github.com/jussaragranja/)
 <br/>
 
