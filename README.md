@@ -17,10 +17,10 @@
 
 
 ### Onde me encontrar:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br/>
 
@@ -51,12 +51,12 @@
 ---
 
 ### Banco de Dados:
-[<img align="left" alt="oracle" width="110px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/oracle.svg">][oracle]
-[<img align="left" alt="sqlserver" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/microsoftsqlserver.svg">][sqlserver]
-[<img align="left" alt="mysql" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg">][mysql]
-[<img align="left" alt="postgresql" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg">][postgresql]
-[<img align="left" alt="mongodb" width="120px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mongodb.svg">][mongodb]
-[<img align="left" alt="sqlite" width="90px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg">][sqlite]
+[<img align="left" alt="oracle" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/oracle.svg">][oracle]
+[<img align="left" alt="sqlserver" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/microsoftsqlserver.svg">][sqlserver]
+[<img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg">][mysql]
+[<img align="left" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg">][postgresql]
+[<img align="left" alt="mongodb" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mongodb.svg">][mongodb]
+[<img align="left" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg">][sqlite]
 
 
 <br/><br/><br/><br/>
