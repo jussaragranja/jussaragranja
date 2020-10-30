@@ -58,9 +58,7 @@
 [<img align="left" alt="mongodb" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mongodb.svg">][mongodb]
 [<img align="left" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg">][sqlite]
 
-
 <br/><br/><br/><br/>
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&theme=dracula)](https://github.com/jussaragranja/)
