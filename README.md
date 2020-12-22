@@ -6,7 +6,7 @@
 
 ### Sobre mim:
 - :earth_americas: João Pessoa - Paraíba
-- 👩🏾‍🎓 Sistemas de Informação - UNIESP
+- 👩🏾‍🎓 Bacharel em Sistemas de Informação - UNIESP
 - 👩🏾‍💻 Apaixonada pelo processo de desenvolvimento de software e automação de testes
 - 💻 Atualmente estudando machine learning/deep learning, e formas de utilizar esse conhecimento dentro da área.
 - 🌱 Sempre em busca de conhecimento
