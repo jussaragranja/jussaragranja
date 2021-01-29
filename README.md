@@ -33,7 +33,7 @@
 [<img align="left" alt="ruby logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png">][ruby]
 [<img align="left" alt="rest-assured" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU">][restassured]
 [<img align="left" alt="selenium" width="60px" src="https://5.imimg.com/data5/PR/TC/MY-42773694/selenium-testing-training-500x500.png">][selenium]
-[<img align="left" alt="cucumber" width="120px" src="https://blog.knoldus.com/wp-content/uploads/2020/04/Blog9_featureImage.png">][cucumber]
+[<img align="left" alt="cucumber" width="130px" src="https://blog.knoldus.com/wp-content/uploads/2020/04/Blog9_featureImage.png">][cucumber]
 [<img align="left" alt="capybara" width="70px" src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/capybara-150px_1.png">][capybara]
 [<img align="left" alt="grid" width="70px" src="https://www.selenium.dev/images/selenium_grid_logo_square.png">][grid]
 [<img align="left" alt="jenkins" width="80px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
