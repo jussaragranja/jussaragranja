@@ -1,69 +1,71 @@
-<img align="right" width="350" src="https://www.edureka.co/blog/wp-content/uploads/2019/03/1blog-1-405x300.png">
+<img align="right" width="350" src="https://miro.medium.com/max/540/1*ng1IK0_zOVux2Wg6BL68Zg.png"/>
 
 ### Ju 👩🏾‍💻 - Analista de Qualidade de Software - QA
 
----
+<hr></hr>
 
 ### Sobre mim:
 - :earth_americas: João Pessoa - Paraíba
 - 👩🏾‍🎓 Bacharel em Sistemas de Informação - UNIESP
 - 👩🏾‍💻 Apaixonada pelo processo de desenvolvimento de software e automação de testes
-- 💻 Atualmente estudando machine learning/deep learning, e formas de utilizar esse conhecimento dentro da área.
 - 🌱 Sempre em busca de conhecimento
 - 🕵️‍♀️ Curiosa...
 - 🤝 Sempre disposta a compartilhar conhecimento, qualquer dúvida estou à disposição.
 
----
-
+<hr></hr>
 
 ### Onde me encontrar:
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
-[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br/>
-
----
+[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="GitLab" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg"/>][gitlab]
+[<img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+<br/><br/>
+<hr></hr>
 
 ### Linguagens, Frameworks e Ferramentas:
-[<img align="left" alt="java icon" width="35px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/258px-Java_Logo.svg.png"/>][java]
-[<img align="left" alt="python logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">][python]
-[<img align="left" alt="djengo documentation" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/django-13-1175187.png">][django]
-[<img align="left" alt="ruby logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png">][ruby]
-[<img align="left" alt="rest-assured" width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU">][restassured]
-[<img align="left" alt="selenium" width="60px" src="https://5.imimg.com/data5/PR/TC/MY-42773694/selenium-testing-training-500x500.png">][selenium]
-[<img align="left" alt="cucumber" width="130px" src="https://blog.knoldus.com/wp-content/uploads/2020/04/Blog9_featureImage.png">][cucumber]
-[<img align="left" alt="capybara" width="70px" src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/capybara-150px_1.png">][capybara]
-[<img align="left" alt="grid" width="70px" src="https://www.selenium.dev/images/selenium_grid_logo_square.png">][grid]
-[<img align="left" alt="jenkins" width="80px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
-[<img align="left" alt="docker" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
-[<img align="left" alt="gitlabci icon" width="50px" src="https://miro.medium.com/max/340/1*HP0Qss6BAQcv0UbHb21YFQ.png">][gitlabci]
-[<img align="left" alt="junit documentation" width="60px" src="https://miro.medium.com/max/460/1*ahIiDbsR6s9XgR45nJJ5DA.png">][junit]
-[<img align="left" alt="testng" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHe0fn9Bp8q5iB_yhJOt35aZAD1yABrLjOAQ&usqp=CAU">][testng]
-[<img align="left" alt="postman" width="80px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/327261/images/5065937/pm-logo-vert.png">][postman]
-[<img align="left" alt="jmeter logo" width="60px" src="https://svn.apache.org/repos/asf/jmeter/tags/v3_2/docs/images/jmeter_square.svg">][jmeter]
-[<img align="left" alt="robotframework" width="60px" src="https://3.bp.blogspot.com/-UoTTtVe4t0Y/WujzP9IF7II/AAAAAAAAAiY/DnBjFV7CICsTZsYl308fofPNhOh5m-WXACLcBGAs/s1600/robotfw_mark_black_low.png">][robotframework]
+[<img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/java.svg"/>][java]
+[<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/python.svg"/>][python]
+[<img align="left" alt="Ruby" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/ruby.svg"/>][ruby]
+[<img align="left" alt="Kotlin" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/kotlin.svg"/>][kotlin]
 
+[<img align="left" alt="Spring" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/spring.svg"/>][spring]
+[<img align="left" alt="Django" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/django.svg"/>][django]
+[<img align="left" alt="Maven" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/apachemaven.svg"/>][maven]
+[<img align="left" alt="Selenium" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/selenium.svg"/>][selenium]
+[<img align="left" alt="Cucumber" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/cucumber.svg"/>][cucumber]
+[<img align="left" alt="RobotFramework" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg"/>][robotframework]
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+[<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/git.svg"/>][git]
+[<img align="left" alt="Jenkins" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/jenkins.svg"/>][jenkins]
+[<img align="left" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/docker.svg"/>][docker]
+[<img align="left" alt="Gitlab" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/gitlab.svg"/>][gitlab]
+[<img align="left" alt="Postman" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/postman.svg"/>][postman]
+[<img align="left" alt="JMeter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/apachejmeter.svg"/>][jmeter]
+[<img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/linux.svg"/>][linux]
 
----
+<br/><br/><br/>
+<hr></hr>
 
 ### Banco de Dados:
-[<img align="left" alt="oracle" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/oracle.svg">][oracle]
-[<img align="left" alt="sqlserver" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/microsoftsqlserver.svg">][sqlserver]
-[<img align="left" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg">][mysql]
-[<img align="left" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg">][postgresql]
-[<img align="left" alt="mongodb" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mongodb.svg">][mongodb]
-[<img align="left" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg">][sqlite]
 
-<br/><br/><br/><br/>
----
+[<img align="left" alt="oracle" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/oracle.svg"/>][oracle]
+[<img align="left" alt="sqlserver" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/microsoftsqlserver.svg"/>][sqlserver]
+[<img align="left" alt="mysql" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/mysql.svg"/>][mysql]
+[<img align="left" alt="postgresql" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/postgresql.svg"/>][postgresql]
+[<img align="left" alt="mongodb" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/mongodb.svg"/>][mongodb]
+[<img align="left" alt="sqlite" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/sqlite.svg"/>][sqlite]
+<br/><br/>
+<hr></hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&theme=dracula)](https://github.com/jussaragranja/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jussaragranja&show_icons=true&theme=dracula)](https://github.com/jussaragranja/)
-<br/>
+
+<hr></hr>
+
+<p align="center"> Visitas a partir de Fev/2021 <br>
+  <img src="https://profile-counter.glitch.me/jussaragranja/count.svg" />
+</p>
+
 
 [linkedin]: https://www.linkedin.com/in/jussaragranja/
 [gitlab]: https://gitlab.com/jussaragranja/
@@ -71,6 +73,10 @@
 [instagram]: https://www.instagram.com/jussaragranja/
 [twitter]: https://twitter.com/JuuhGranja
 [java]: https://docs.oracle.com/en/java/
+[kotlin]: https://kotlinlang.org/docs/home.html
+[spring]: https://spring.io/projects/spring-boot
+[git]: https://git-scm.com/docs
+[linux]: https://www.kernel.org/doc/html/latest/
 [selenium]: https://www.selenium.dev/documentation/en/
 [restassured]: https://rest-assured.io/
 [junit]: https://junit.org/
@@ -93,6 +99,3 @@
 [sqlite]: https://www.sqlite.org/docs.html
 [sqlserver]: https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15
 [robotframework]: http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
-
-
-
