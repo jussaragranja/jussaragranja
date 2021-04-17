@@ -43,7 +43,7 @@
 [<img align="left" alt="JMeter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/apachejmeter.svg"/>][jmeter]
 [<img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/linux.svg"/>][linux]
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 <hr></hr>
 
 ### Banco de Dados:
