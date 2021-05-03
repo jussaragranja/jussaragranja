@@ -57,7 +57,7 @@
 <br/><br/>
 <hr></hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&theme=dracula&langs_count=15)](https://github.com/jussaragranja/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&theme=dracula&langs_count=15&hide=html)](https://github.com/jussaragranja/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jussaragranja&show_icons=true&theme=dracula)](https://github.com/jussaragranja/)
 
 <hr></hr>
