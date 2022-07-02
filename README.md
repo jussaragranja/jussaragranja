@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🌎 João Pessoa - Paraíba<br>👩🏾‍🎓 Bacharel em Sistemas de Informação - UNIESP<br>👩🏾‍💻 Apaixonada pelo processo de desenvolvimento de software e automação de testes<br>🐞 Sempre defendendo e reforçando a mentalidade de que o QA faz parte do desenvolvimento do produto!!<br>🌱 Sempre em busca de conhecimento<br>🕵️‍♀️ Curiosa...<br>🤝 Sempre disposta a compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
+<p align="left">🌎 João Pessoa - Paraíba<br>👩🏾‍🎓 Bacharel em Sistemas de Informação - UNIESP<br>👩🏾‍💻 Apaixonada pelo processo de desenvolvimento de software e automação de testes<br>🐞 Defendo e reforço a mentalidade de que o QA faz parte do desenvolvimento do produto!!<br>🌱 Sempre em busca de conhecimento<br>🕵️‍♀️ Curiosa...<br>🤝 Disposta a compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
 
 ###
 
