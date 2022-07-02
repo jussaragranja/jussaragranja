@@ -35,7 +35,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40" width="40" alt="git logo"  />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/apachejmeter.svg" height="40" width="52" alt="jmeter logo"  />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/linux.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
   
   
