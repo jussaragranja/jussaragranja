@@ -1,4 +1,5 @@
 <h1 align="left">Ju 👩🏾‍💻 - Analista de Automação de testes e Qualidade de Software</h1>
+<img align="right" width="250" src="https://miro.medium.com/max/540/1*ng1IK0_zOVux2Wg6BL68Zg.png"</img>
 
 ###
 
@@ -66,6 +67,10 @@
   </a>
   <a href="https://www.instagram.com/jussaragranja/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  
+  <a href="https://gitlab.com/jussaragranja/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://twitter.com/JuuhGranja" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
