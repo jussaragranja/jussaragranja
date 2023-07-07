@@ -1,21 +1,21 @@
-<h1 align="left">Ju 👩🏾‍💻 - Analista de Automação de testes e Qualidade de Software</h1>
-<img align="right" width="250" src="https://miro.medium.com/max/540/1*ng1IK0_zOVux2Wg6BL68Zg.png"</img>
+<h1 style="text-align:left">Ju 👩🏾‍💻 - Analista de Automação de testes e Qualidade de Software</h1>
+<img style="text-align:right" width="250" src="https://miro.medium.com/max/540/1*ng1IK0_zOVux2Wg6BL68Zg.png"</img>
 
 ###
 
-<h2 align="left">Sobre mim:</h2>
+<h2 style="text-align:left">Sobre mim:</h2>
 
 ###
 
-<p align="left">🌎 João Pessoa - Paraíba<br>👩🏾‍🎓 Bacharel em Sistemas de Informação - UNIESP<br>📚 Studying MBA - Full Stack Web Development - UNIESP<br>👩🏾‍💻 Apaixonada pelo processo de desenvolvimento de software e automação de testes<br>🐞 Defendo e reforço a mentalidade de que o QA faz parte do desenvolvimento do produto!!<br>🌱 Sempre em busca de conhecimento<br>🕵️‍♀️ Curiosa...<br>🤝 Disposta a compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
+<p style="text-align:left">🌎 João Pessoa - Paraíba<br>👩🏾‍🎓 Bacharel em Sistemas de Informação - UNIESP<br>📚 Studying MBA - Full Stack Web Development - UNIESP<br>👩🏾‍💻 Apaixonada pelo processo de desenvolvimento de software e automação de testes<br>🐞 Defendo e reforço a mentalidade de que o QA faz parte do desenvolvimento do produto!!<br>🌱 Sempre em busca de conhecimento<br>🕵️‍♀️ Curiosa...<br>🤝 Disposta a compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
 
 ###
 
-<h2 align="left">Linguagens, Frameworks e Ferramentas:</h2>
+<h2 style="text-align:left">Linguagens, Frameworks e Ferramentas:</h2>
 
 ###
 
-<div align="left">
+<div style="text-align:left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -32,7 +32,7 @@
   <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" height="40" width="45" alt="cucumber logo"  />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="40" width="52" alt="robot logo"  />
   <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="40" width="40" alt="allure logo"  />
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
   <img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="40" width="30" alt="jenkins logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
@@ -46,11 +46,11 @@
 
 ###
 
-<h2 align="left">Banco de Dados:</h2>
+<h2 style="text-align:left">Banco de Dados:</h2>
 
 ###
 
-<div align="left">
+<div style="text-align:left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
@@ -60,11 +60,11 @@
 
 ###
 
-<h2 align="left">Onde me encontrar:</h2>
+<h2 style="text-align:left">Onde me encontrar:</h2>
 
 ###
 
-<div align="left">
+<div style="text-align:left">
   <a href="https://www.linkedin.com/in/jussaragranja/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -85,23 +85,20 @@
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+<h2 style="text-align:left">Estatísticas</h2>
 
-###
+######
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=jussaragranja" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&hide_title=false&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+<div style="text-align:center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=jussaragranja" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&hide_title=false&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 ###
 
-<h4 align="center">Visitas a partir de Fev/2021</h4>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jussaragranja/count.svg?"  />
+<h4 style="text-align:center">Visitas desde Fev/2022</h4>
+<div style="text-align:center">
+  <img src="https://profile-counter.glitch.me/jussaragranja/count.svg?" alt="visit" />
 </div>
 
 ###
