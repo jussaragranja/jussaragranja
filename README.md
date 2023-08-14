@@ -7,7 +7,7 @@
 
 ###
 
-<p style="text-align:left">🌎 João Pessoa - Paraíba<br>👩🏾‍🎓 Bacharel em Sistemas de Informação - UNIESP<br>📚 Studying MBA - Full Stack Web Development - UNIESP<br>👩🏾‍💻 Apaixonada pelo processo de desenvolvimento de software e automação de testes<br>🐞 Defendo e reforço a mentalidade de que o QA faz parte do desenvolvimento do produto!!<br>🌱 Sempre em busca de conhecimento<br>🕵️‍♀️ Curiosa...<br>🤝 Disposta a compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
+<p style="text-align:left">🌎 João Pessoa - Paraíba<br>👩🏾‍🎓 Bacharel em Sistemas de Informação - UNIESP<br>📚 Cursando MBA - Full Stack Web Development - UNIESP<br>👩🏾‍💻 Apaixonada pelo processo de desenvolvimento de software e automação de testes<br>🐞 Defendo e reforço a mentalidade de que o QA faz parte do desenvolvimento do produto!!<br>🌱 Sempre em busca de conhecimento<br>🕵️‍♀️ Curiosa...<br>🤝 Disposta a compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
 
 ###
 
