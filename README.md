@@ -1,4 +1,4 @@
-<h1 style="text-align:left">Ju 👩🏾‍💻 - Analista de Automação de testes e Qualidade de Software</h1>
+<h1 style="text-align:left">Ju 👩🏾‍💻 - Analista de Automação de testes e Qualidade de Software Senior</h1>
 <img style="text-align:right" width="250" src="https://miro.medium.com/max/540/1*ng1IK0_zOVux2Wg6BL68Zg.png"</img>
 
 ###
