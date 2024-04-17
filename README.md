@@ -94,6 +94,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&hide_title=false&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
+![snake animation](https://github.com/jussaragranja/jussaragranja/blob/output/github-contribution-grid-snake2.svg)
+
 ###
 
 <h4 style="text-align:center">Visitas desde Fev/2022</h4>
