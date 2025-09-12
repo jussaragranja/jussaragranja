@@ -3,9 +3,17 @@
     Se chegou até aqui, comente #EuAmoQA em algum repositório meu!
 -->
 
-<h1 align="left">Ju 👩🏾‍💻 | Analista de Automação de testes e Qualidade de Software Senior</h1>
+<h1 align="center">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="60"/>
+ Ju 👩🏾‍💻 | Analista de Automação de testes e Qualidade de Software Senior
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Testar+%3D+Transformar+caos+em+magia!;QA+%7C+Test+Automation+%7C+Curiosidade+Infinita" alt="Typing SVG" />
+</p>
 
 ---
+
 
 > **"Testar não é encontrar erros. É garantir que a magia do software aconteça para todos."**
 
@@ -23,25 +31,6 @@
 
 ---
 
-## 🕹️ Teste Interativo: Você é QA de verdade?
-
-> Responda mentalmente (ou [abra um issue e me conte!](https://github.com/jussaragranja/jussaragranja/issues/new?title=Respondi+ao+teste+interativo!))
-
-**1.** O que você faz ao encontrar um bug?
-- a) Esconde
-- b) Documenta, reporta e sugere melhoria
-- c) Dá um nome e adota como pet
-
-**2.** O que é mais satisfatório?
-- a) Deploy sem testes
-- b) Teste automatizado passando verde
-- c) Encontrar um bug antes do dev
-
-Se respondeu “b” para tudo, já pode me chamar no LinkedIn!  
-Se respondeu “c”, você é do meu time!  
-Se respondeu “a”, vamos conversar… 😅
-
----
 
 ## 🛠️ Ferramentas & Magias
 
@@ -88,6 +77,43 @@ Se respondeu “a”, vamos conversar… 😅
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
+
+---
+
+## 🧩 **Missão: QA Experience**
+
+Você acaba de entrar em uma **missão interativa**.
+
+### 🎲 **Fase 1: O Enigma do Bug**
+> Um bug misterioso apareceu no sistema. O que você faz?
+> - [ ] a) Ignora, ninguém vai notar
+> - [ ] b) Reporta, documenta e sugere melhoria
+> - [ ] c) Dá um nome e adota como pet 
+
+<details>
+  <summary>🔍 Clique para revelar a resposta</summary>
+  <br>
+  <b>Se você escolheu "b" ou "c", avance para a próxima fase!</b>
+  <br>
+  <i>Se escolheu "a", volte 3 casas e repense sua carreira QA 😅</i>
+</details>
+
+---
+
+### 🕹️ **Fase Bônus: O Desafio do QA Supremo**
+
+> **Complete a frase:**  
+> “O melhor bug é aquele que...”
+
+- [ ] a) Nunca existiu
+- [ ] b) Foi encontrado antes do deploy
+- [ ] c) Virou meme no time
+
+<details>
+  <summary>👾 Resposta</summary>
+  <br>
+  <b>Todos estão certos, mas só quem é QA raiz sabe que a resposta é: “O melhor bug é aquele que ensina algo novo!”</b>
+</details>
 
 ---
 
