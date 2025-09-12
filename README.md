@@ -53,7 +53,7 @@ Se respondeu “a”, vamos conversar… 😅
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
   <!-- Frameworks -->
-  <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height="40" alt="Selenium" />
+  <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="40" alt="Selenium" />
   <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" alt="Cypress" />
   <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" height="40" alt="Cucumber" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="40" alt="Robot Framework" />
