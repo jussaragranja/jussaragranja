@@ -150,7 +150,7 @@ Você acaba de entrar em uma **missão interativa**.
 
 ## 🧙‍♀️ Easter Egg
 
-> **Se você chegou até aqui, digite “#EuAmoQA” em algum repositório meu ou me mande no LinkedIn.  
+> **Se você chegou até aqui, e não me segue, segue ai vaiiii, e digite “#EuAmoQA” em algum repositório meu ou me mande no LinkedIn.  
 > Vou te mandar um bug de estimação virtual! 🐞**
 
 ---
