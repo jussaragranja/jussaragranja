@@ -146,6 +146,7 @@ Você acaba de entrar em uma **missão interativa**.
 
 ![Snake animation](https://github.com/jussaragranja/jussaragranja/blob/output/snake.svg)
 
+<img src="https://raw.githubusercontent.com/jussaragranja/jussaragranja/output/snake.svg" width="100%" />
 ---
 
 ## 🧙‍♀️ Easter Egg
