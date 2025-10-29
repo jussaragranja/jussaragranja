@@ -144,8 +144,6 @@ Você acaba de entrar em uma **missão interativa**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&card_width=320&langs_count=5&theme=codeSTACKr" height="160" alt="languages graph" />
 </div>
 
-![Snake animation](https://github.com/jussaragranja/jussaragranja/blob/output/snake.svg)
-
 <img src="https://raw.githubusercontent.com/jussaragranja/jussaragranja/output/snake.svg" width="100%" />
 ---
 
