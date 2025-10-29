@@ -121,16 +121,16 @@ Você acaba de entrar em uma **missão interativa**.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jussaragranja/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="linkedin logo" />
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="32" height="32" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/jussaragranja/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="instagram logo" />
+    <img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png" width="32" height="32" alt="instagram logo" />
   </a>
   <a href="https://gitlab.com/jussaragranja/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="32" height="32" alt="gitlab logo" />
   </a>
   <a href="https://www.youtube.com/channel/UCk9diY3H_wU3bzj42i6NCaw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="32" alt="youtube logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="32" height="32" alt="youtube logo" />
   </a>
 </div>
 
