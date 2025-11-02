@@ -24,7 +24,6 @@
 - 🌎 **Localização:** João Pessoa, Paraíba
 - 👩🏾‍🎓 **Formação:** Bacharel em Sistemas de Informação (UNIESP)
 - 📚 **Pós:** MBA Full Stack Web Development
-- 👩🏾‍💻 **Especialidade:** Transformar bugs em features e dúvidas em documentação
 - 🦸🏾‍♀️ **Missão:** Defender a qualidade como parte do DNA do produto
 - 🧠 **Curiosidade:** Sempre em modo investigativo
 - 🤝 **Compartilhamento:** QA que ensina, aprende e repete o ciclo
