@@ -84,7 +84,7 @@ Sou **QA Senior** com 8 anos de experiência em **automação de testes, engenha
 
 <div>
   <img src="https://devicon-website.vercel.app/api/amazonwebservices/original-wordmark.svg" height="40" alt="AWS"/>
-  <img src="https://images.seeklogo.com/logo-png/42/2/github-actions-logo-png_seeklogo-428028.png" height="40" alt="Github Actions" />
+  <img src="https://logo.svgcdn.com/logos/github-actions.png" height="40" alt="Github Actions" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="40" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40" alt="Git" />
