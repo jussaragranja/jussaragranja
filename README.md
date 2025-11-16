@@ -50,6 +50,7 @@ Sou **QA Senior** com 8 anos de experiência em **automação de testes, engenha
 
 ### Linguagens
 
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://devicon-website.vercel.app/api/go/original-wordmark.svg" height="40" alt="Go" />
@@ -57,10 +58,12 @@ Sou **QA Senior** com 8 anos de experiência em **automação de testes, engenha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
   <img src="https://devicon-website.vercel.app/api/csharp/original.svg" height="40" alt="csharp"/>
+</div>
 
 
 ### Automação & Testes
 
+<div>
   <img src="https://miro.medium.com/max/400/1*dbeTcEaIPgyZZ6aaC519RQ.png" height="40" alt="RestAssured" />
   <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="40" alt="Selenium" />
   <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" alt="Cypress" />
@@ -74,10 +77,12 @@ Sou **QA Senior** com 8 anos de experiência em **automação de testes, engenha
   <img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" alt="JMeter" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/748px-K6-logo.svg.png?20200330143628" height="40" alt="K6"/>
   <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="40" alt="Allure" />
-<img src="https://www.svgrepo.com/show/354365/sonarqube.svg" height="40" alt="Sonar" />
+  <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" height="40" alt="Sonar" />
+</div>
 
 ### CI/CD & DevOps
 
+<div>
   <img src="https://devicon-website.vercel.app/api/amazonwebservices/original-wordmark.svg" height="40" alt="AWS"/>
   <img src="https://images.seeklogo.com/logo-png/42/2/github-actions-logo-png_seeklogo-428028.png" height="40" alt="Github Actions" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="40" alt="Jenkins" />
@@ -86,21 +91,25 @@ Sou **QA Senior** com 8 anos de experiência em **automação de testes, engenha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="40" alt="gitlab logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" height="40" width="52" alt="linux logo"/>
   <img src="https://devicon-website.vercel.app/api/bash/original.svg" height="40" alt="Bash" />
-
+</div>
   
 ### APIs & Ferramentas
 
+<div>
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
 <img src="https://www.applivery.com/wp-content/uploads/2024/09/Insomnia.png" height="40" alt="Insomnia" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="40" alt="Swagger";>
+</div>
 
 ### Bancos de dados
 
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+</div>
 
 ---
 
