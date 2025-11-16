@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Automação+%3D+Sem+planejamento+não+serve!;+%7C+Automation+%7C+Qualidade+como+produto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o+%3D+Sem+planejamento+n%C3%A3o+serve!;+%7C+Automation+%7C+Qualidade+como+produto" alt="Typing SVG" />
 </p>
 
 ---
