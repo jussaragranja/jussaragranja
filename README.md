@@ -100,7 +100,7 @@ Sou **QA Senior** com 8 anos de experiência em **automação de testes, engenha
 
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png" height="25" alt="OpenAI" />
-<img src="https://plugins.jetbrains.com/files/19706/249767/icon/default.png" height="40" alt="Stackspot" />
+<img src="https://downloads.marketplace.jetbrains.com/files/19706/249767/icon/default.png" height="40" alt="Stackspot" />
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
 <img src="https://www.applivery.com/wp-content/uploads/2024/09/Insomnia.png" height="40" alt="Insomnia" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="40" alt="Swagger" />
