@@ -41,7 +41,7 @@ Sou **QA Senior** com 8 anos de experiência em **automação de testes, engenha
 
 - Criação e implantação de **agentes inteligentes** para apoiar rotinas de QA
 - Desenvolvimento de **Quick Commands** para acelerar tarefas repetitivas e padronizar validações.  
-- Uso de ferramentas como **StackSpot** e LLMs para geração assistida de testes, prompts para análise de risco e automação de triagem de incidentes.  
+- Uso de ferramentas como **StackSpot e OpenAI** para geração assistida de testes, prompts para análise de risco e automação de triagem de incidentes.  
 - Integração de IA com pipelines de QA para reduzir tempo de verificação e aumentar assertividade.
 
 ---
