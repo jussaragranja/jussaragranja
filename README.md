@@ -28,13 +28,13 @@
 
 Sou **QA Senior** com 8 anos de experiência em **automação de testes, engenharia de software e qualidade, e práticas modernas de CI/CD**.  
 
-- 🌎 **Localização:** João Pessoa, Paraíba
-- 👩🏾‍🎓 **Formação:** Bacharel em Sistemas de Informação (UNIESP)
-- 📚 **Pós:** MBA Full Stack Web Development
+- 🌎 **Localização:** João Pessoa, PB
+- 👩🏾‍🎓 **Graduação:** Bacharel em Sistemas de Informação (UNIESP)
+- 📚 **Pós-Graduação:** MBA Full Stack Web Development
 - 👩🏾‍💻 **Especialidade:** Automação de testes 
 - 🦸🏾‍♀️ **Missão:** Defender a qualidade como parte do DNA do produto
 - 🧠 **Curiosidade:** Sempre em modo investigativo
-- 🤝 **Compartilhamento:** QA que ensina, aprende e repete o ciclo
+- 🤝 **Compartilhamento:** Amo compartilhar conhecimento, acredito que essa é a minha missão.
 
 ---
 ## 🤖 Inovação com IA Generativa
