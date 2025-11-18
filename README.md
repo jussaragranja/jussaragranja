@@ -78,7 +78,7 @@ Sou **QA Senior** com 8 anos de experiência em **automação de testes, engenha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="40" width="40" alt="django logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
-  <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="40" alt="Allure" />
+  <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="35" alt="Allure" />
   <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" height="40" alt="Sonar" />
 </div>
 
