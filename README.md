@@ -6,7 +6,7 @@
 
 <h1 align="left">
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="60"/>
- Ju 👩🏾‍💻 | Senior QA Engineer & Test Automation Specialist
+ Ju 👩🏾‍💻 | Senior QA Engineer & Test Automation
 </h1>
 
 <p align="center">
