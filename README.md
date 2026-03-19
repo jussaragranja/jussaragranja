@@ -74,7 +74,6 @@ Sou **QA Senior** com 8 anos de experiência em **automação de testes, engenha
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*dFo1UG3-Ho4gqqQ9.png" height="40" width="60" alt="testng logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" height="25" alt="Playwright" />
   <img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" alt="JMeter" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/748px-K6-logo.svg.png?20200330143628" height="40" alt="K6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="40" width="40" alt="django logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
