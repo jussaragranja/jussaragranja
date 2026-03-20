@@ -108,7 +108,7 @@ Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenh
 
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
 <img src="https://www.applivery.com/wp-content/uploads/2024/09/Insomnia.png" height="45" alt="Insomnia" />
-<img src="https://docs.usebruno.com/favicon.png" height="45" alt="Bruno" />
+<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5536d036d798e8d1d2e0f6f50e3503cb/bruno-bruno.png" height="40" alt="Bruno" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="40" alt="Swagger" />
 
 <img src="https://devicon-website.vercel.app/api/jira/original-wordmark.svg" height="40" alt="Jira" />
