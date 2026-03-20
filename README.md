@@ -1,24 +1,14 @@
-<!--
-    Parabéns, você encontrou o primeiro bug: o código-fonte do README!
-    Se chegou até aqui, comente #EuAmoQA em algum repositório meu!
--->
-
-
 <h1 align="left">
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="60"/>
  Ju 👩🏾‍💻 Senior QA Engineer | Test Automation | AI for QA
 </h1>
 
-🚀 Compromisso em entregar software com qualidade, segurança e inteligência usando automação e IA.
+🚀 Compromisso em elevar a maturidade da engenharia de software, entregando software com qualidade, segurança, visão estratégica e agilidade.
 
-✔️ +9 anos em QA  
-✔️ Especialista em automação de testes
-✔️ Criando soluções com IA para testes  
-
-👉 Atualmente explorando a combinação: AI Agents + Test Automation
+Atualmente explorando a combinação: AI Agents + Test Automation
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o+%3D+Sem+planejamento+n%C3%A3o+serve!;+%7C+Automation+%7C+Qualidade+como+prioridade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o+%3D+Estrat%C3%A9gia+%2B+Arquitetura;+%7C+AI+Agents+%2B+QA+%7C;Qualidade+como+cultura,+n%C3%A3o+como+etapa" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,12 +19,14 @@
 
 ## 🚀 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jussaragranja)
-[![Instagram](https://img.shields.io/badge/-Instagran-f56040?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jussaragranja/)
-[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCk9diY3H_wU3bzj42i6NCaw)
-[![GitLab](https://img.shields.io/badge/-Gitlab-FF0000?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/jussaragranja/)
+<p align="rigth">
+  <a href="https://www.linkedin.com/in/jussaragranja"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gitlab.com/jussaragranja/"><img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+  <a href="https://www.youtube.com/channel/UCk9diY3H_wU3bzj42i6NCaw"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.instagram.com/jussaragranja/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenharia de software e qualidade, e práticas modernas de CI/CD**.  
+Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenharia de software com qualidade, e práticas modernas de CI/CD**.  
 
 - 🌎 **Localização:** João Pessoa, PB
 - 👩🏾‍🎓 **Graduação:** Bacharel em Sistemas de Informação (UNIESP)
@@ -47,6 +39,7 @@ Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenh
 ---
 ## 🤖 Inovação com IA Generativa
 
+- **Arquiteturas RAG & LLMs:** Estudo e aplicação de Large Language Models e Retrieval-Augmented Generation voltados para qualidade.
 - Criação e implantação de **agentes inteligentes** para apoiar rotinas de QA
 - Desenvolvimento de **Quick Commands** para acelerar tarefas repetitivas e padronizar validações.  
 - Uso de ferramentas como **StackSpot e OpenAI** para geração assistida de testes, prompts para análise de risco e automação de triagem de incidentes.  
@@ -156,4 +149,3 @@ Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenh
 - Um bug virtual 🐞  
 - E meu respeito eterno como QA 😄
 -->
-
