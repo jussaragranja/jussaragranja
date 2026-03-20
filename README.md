@@ -4,11 +4,11 @@
 </h1>
 
 <p align="center">
-  <b> 🚀 Compromisso em elevar a maturidade da engenharia de software, entregando software com qualidade, segurança, visão estratégica e agilidade.</b>
+  🚀 Compromisso em elevar a maturidade da engenharia de software, entregando software com qualidade, segurança, visão estratégica e agilidade.
 </p>
 
 <p align="center">
-  <b> 📚 Atualmente explorando a combinação: AI Agents + Test Automation.</b>
+  📚 Atualmente explorando a combinação: AI Agents + Test Automation.
 </p>
 
 
