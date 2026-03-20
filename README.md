@@ -73,13 +73,12 @@ Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenh
   <img src="https://iconape.com/wp-content/files/mg/33784/svg/appium.svg" height="40" alt="Appium">
   <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" alt="Cypress" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="40" alt="Robot Framework" />
+</div>
 
-
+<div>
   <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" height="40" alt="Cucumber" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png?20211216140742" height="30" width="60" alt="junit logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" height="25" alt="Playwright" />
-
-
 </div>
 
 ### CI/CD & DevOps
@@ -95,26 +94,31 @@ Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenh
 
 
 ### Logs e Observabilidade
+<div>
 <img src="https://miro.medium.com/v2/1*XiBLnt5FSg4SpAwcvkwo7w.jpeg" height="40" alt="Splunk" />
 <img src="https://www.svgrepo.com/show/448219/datadog.svg" height="40" alt="DataDog" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/1969px-Grafana_icon.svg.png" height="40" alt="Grafana" />
-  
+</div>
+
 ### Demais Ferramentas
 
 <div>
 <img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" alt="JMeter" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png" height="25" alt="OpenAI" />
 <img src="https://d7umqicpi7263.cloudfront.net/img/product/76612b61-fc3a-4260-90bc-74004d7f8451.png" height="40" alt="Stackspot" />
+</div>
 
+<div>
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
 <img src="https://www.applivery.com/wp-content/uploads/2024/09/Insomnia.png" height="45" alt="Insomnia" />
 <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5536d036d798e8d1d2e0f6f50e3503cb/bruno-bruno.png" height="40" alt="Bruno" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="40" alt="Swagger" />
+</div>
 
+<div>
 <img src="https://devicon-website.vercel.app/api/jira/original-wordmark.svg" height="40" alt="Jira" />
 <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" alt="Trello" />
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="Github" />
-
 </div>
 
 ### Bancos de dados
