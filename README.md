@@ -3,9 +3,14 @@
  Ju 👩🏾‍💻 Senior QA Engineer | Test Automation | AI for QA
 </h1>
 
-🚀 Compromisso em elevar a maturidade da engenharia de software, entregando software com qualidade, segurança, visão estratégica e agilidade.
+<p align="center">
+  <b> 🚀 Compromisso em elevar a maturidade da engenharia de software, entregando software com qualidade, segurança, visão estratégica e agilidade.</b>
+</p>
 
-Atualmente explorando a combinação: AI Agents + Test Automation
+<p align="center">
+  <b> 📚 Atualmente explorando a combinação: AI Agents + Test Automation.</b>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o+%3D+Estrat%C3%A9gia+%2B+Arquitetura;+%7C+AI+Agents+%2B+QA+%7C;Qualidade+como+cultura,+n%C3%A3o+como+etapa" alt="Typing SVG" />
