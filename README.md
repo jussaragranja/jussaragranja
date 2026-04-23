@@ -86,9 +86,9 @@ Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenh
 <div>
   <img src="https://devicon-website.vercel.app/api/amazonwebservices/original-wordmark.svg" height="40" alt="AWS"/>
   <img src="https://logo.svgcdn.com/logos/github-actions.png" height="40" alt="Github Actions" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="40" alt="Jenkins" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/250px-Jenkins_logo.svg.png?_=20120629215426" height="40" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40" alt="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="40" alt="gitlab logo"  />
 </div>
 
@@ -97,15 +97,15 @@ Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenh
 <div>
 <img src="https://miro.medium.com/v2/1*XiBLnt5FSg4SpAwcvkwo7w.jpeg" height="40" alt="Splunk" />
 <img src="https://www.svgrepo.com/show/448219/datadog.svg" height="40" alt="DataDog" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/1969px-Grafana_icon.svg.png" height="40" alt="Grafana" />
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" height="40" alt="Grafana" />
 </div>
 
-### Demais Ferramentas
+### AI e Demais Ferramentas
 
 <div>
-<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" alt="JMeter" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png" height="25" alt="OpenAI" />
+<img src="https://freelogopng.com/images/all_img/1681142315open-ai-logo.png" height="25" alt="OpenAI" />
 <img src="https://d7umqicpi7263.cloudfront.net/img/product/76612b61-fc3a-4260-90bc-74004d7f8451.png" height="40" alt="Stackspot" />
+<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" alt="JMeter" />
 </div>
 
 <div>
