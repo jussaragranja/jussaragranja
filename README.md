@@ -64,6 +64,10 @@ Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenh
   <img src="https://devicon-website.vercel.app/api/csharp/original.svg" height="40" alt="csharp"/>
 </div>
 
+##### Estudando
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/3840px-Go_Logo_Blue.svg.png" height="25" alt="golang"/>
+</div>
 
 ### Automação & Testes
 
