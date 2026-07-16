@@ -1,58 +1,121 @@
-<h1 align="left">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="60"/>
- Ju 👩🏾‍💻 Senior QA Engineer | Test Automation | AI for QA
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="55"/>
+  Ju — AI Advocate for Software Quality
 </h1>
 
 <p align="center">
-  🚀 Compromisso em elevar a maturidade da engenharia de software, entregando software com qualidade, segurança, visão estratégica e agilidade.
+  <b>Foco na Engenharia de Qualidade com Inteligência Artificial</b><br/>
+  <sub>Senior Quality Engineer · AI for QA · Agentes de IA, LLMs & Spec-Driven Development</sub>
 </p>
 
 <p align="center">
-  📚 Atualmente explorando a combinação: AI Agents + Test Automation.
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=620&lines=AI+for+Software+Quality;AI+Agents+%2B+LLMs+in+the+QA+lifecycle;Building+AI-native+Quality+Engineering" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o+%3D+Estrat%C3%A9gia+%2B+Arquitetura;+%7C+AI+Agents+%2B+QA+%7C;Qualidade+como+cultura,+n%C3%A3o+como+etapa" alt="Typing SVG" />
+  <a href="#-português"><img src="https://img.shields.io/badge/🇧🇷 Português-005CA9?style=for-the-badge" alt="Português"></a>
+  <a href="#-english"><img src="https://img.shields.io/badge/🇬🇧 English-B22234?style=for-the-badge" alt="English"></a>
 </p>
 
----
+<p align="center">
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/🛠️ Tech Stack-F7A41D?style=for-the-badge" alt="Tech Stack"></a>
+</p>
 
-> **"Testar não é encontrar erros. É garantir que a magia do software aconteça para todos."**
-
----
-
-## 🚀 Sobre mim
-
-<p align="rigth">
+<p align="center">
   <a href="https://www.linkedin.com/in/jussaragranja"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://gitlab.com/jussaragranja/"><img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
   <a href="https://www.youtube.com/channel/UCk9diY3H_wU3bzj42i6NCaw"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.instagram.com/jussaragranja/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenharia de software com qualidade, e práticas modernas de CI/CD**.  
-
-- 🌎 **Localização:** João Pessoa, PB
-- 👩🏾‍🎓 **Graduação:** Bacharel em Sistemas de Informação (UNIESP)
-- 📚 **Pós-Graduação:** MBA Full Stack Web Development
-- 👩🏾‍💻 **Especialidade:** Automação de testes 
-- 🦸🏾‍♀️ **Missão:** Defender a qualidade como parte do DNA do produto
-- 🧠 **Curiosidade:** Sempre em modo investigativo
-- 🤝 **Compartilhamento:** Amo compartilhar conhecimento, acredito que essa é a minha missão.
-
----
-## 🤖 Inovação com IA Generativa
-
-- **Arquiteturas RAG & LLMs:** Estudo e aplicação de Large Language Models e Retrieval-Augmented Generation voltados para qualidade.
-- Criação e implantação de **agentes inteligentes** para apoiar rotinas de QA
-- Desenvolvimento de **Quick Commands** para acelerar tarefas repetitivas e padronizar validações.  
-- Uso de ferramentas como **StackSpot e OpenAI** para geração assistida de testes, prompts para análise de risco e automação de triagem de incidentes.  
-- Integração de IA com pipelines de QA para reduzir tempo de verificação e aumentar assertividade.
-
 ---
 
-## 🛠️ Tech Stack
+## 🇧🇷 Português
+
+> **"Testar não é encontrar erros. É garantir que a magia do software aconteça para todos."**
+
+Sou **Quality Engineer** há mais de **9 anos** e hoje meu foco é aproximar **QA e Inteligência Artificial** na prática, no dia a dia de quem testa.
+
+Atuo ajudando QAs a **descomplicar o uso de IA**: crio **agentes com skills** que apoiam o trabalho do time, dissemino conhecimento e incentivo a adoção. Sabemos que IA não está aqui para substituir pessoas é muito mais sobre dar superpoderes a quem já garante qualidade. A ideia principal é melhorar o tempo dos QAs, permitindo que possam pensar mais e deixar as ações para a IA aplicar, permitindo executar os projetos planejados que ainda não foram iniciados.
+
+### 🎯 No que estou trabalhando agora
+
+- 🏦 Dou **apoio técnico em IA e automação de testes** para os QAs da tribo **RT Home** do super app do **Itaú**
+- 🤖 Crio **novas skills para o nosso agent de qualidade** e mantenho as automações dos times (existentes e novas)
+- 🔁 Construo os agentes com **loop engineering**, **context engineering** e **prompt engineering**, seguindo **SDD**
+- 🛡️ Aplico **guardrails** e integro ferramentas via **MCP (Model Context Protocol)** para respostas mais confiáveis
+- 🧰 No dia a dia, utilizo **Devin**, **Copilot** e **Claude Code**
+- 🗣️ Dissemino conhecimento e **incentivo QAs a adotarem IA** no dia a dia
+
+<!-- 🚧 AI Projects & Labs — oculto até publicar os primeiros projetos. Para reativar, remova este comentário e o de fechamento abaixo.
+### 🧪 AI Projects & Labs
+
+> 🚧 Em construção — publicando experimentos e ferramentas de IA para QA em breve.
+
+| Projeto | O que faz | Stack |
+|---|---|---|
+| _🔜 Em breve_ | _Agente de IA para geração de casos de teste_ | _LLM · RAG_ |
+| _🔜 Em breve_ | _Automação inteligente de triagem de incidentes_ | _OpenAI · CI/CD_ |
+| _🔜 Em breve_ | _Quick Commands para QA_ | _StackSpot_ |
+
+
+📺 Compartilho conhecimento no **[YouTube](https://www.youtube.com/channel/UCk9diY3H_wU3bzj42i6NCaw)** — acredito que ensinar é parte da minha missão.
+-->
+
+<sub>🌎 João Pessoa, PB · 🎓 Bacharel em Sistemas de Informação (UNIESP) · 🎓 Pós-Graduada em MBA - Full Stack Web Development (UNIESP)</sub>
+
+---
+
+## 🇬🇧 English
+
+> **"Testing isn't about finding bugs. It's about making sure the magic of software happens for everyone."**
+
+I've been a **Quality Engineer** for **9+ years**, and today my focus is bringing **QA and AI together** — in practice, in the daily routine of the people who test.
+
+I help QAs **make AI approachable**: I build **agents with skills** that support the team's work, share knowledge, and drive adoption. To me, AI in quality isn't about replacing people — it's about giving superpowers to those who already ensure quality.
+
+### 🎯 What I'm working on now
+
+- 🏦 I provide **technical support in AI and test automation** to the QAs of the **RT Home** tribe at **Itaú**'s super app
+- 🤖 I build **new skills for our quality agent** and maintain the teams' automations (existing and new)
+- 🔁 I build the agents with **loop engineering**, **context engineering** and **prompt engineering**, following **SDD**
+- 🛡️ I apply **guardrails** and integrate tools via **MCP (Model Context Protocol)** for more reliable responses
+- 🧰 Day to day, I work with **Devin**, **Copilot**, and **Claude Code**
+- 🗣️ I share knowledge and **encourage QAs to adopt AI** in their daily work
+
+<!-- 🚧 AI Projects & Labs — hidden until the first projects are published. To re-enable, remove this comment and the closing one below.
+### 🧪 AI Projects & Labs
+
+> 🚧 Work in progress — shipping AI-for-QA experiments and tools soon.
+
+| Project | What it does | Stack |
+|---|---|---|
+| _🔜 Coming soon_ | _AI agent for test case generation_ | _LLM · RAG_ |
+| _🔜 Coming soon_ | _Intelligent incident triage automation_ | _OpenAI · CI/CD_ |
+| _🔜 Coming soon_ | _Quick Commands for QA_ | _StackSpot_ |
+
+
+📺 I share knowledge on **[YouTube](https://www.youtube.com/channel/UCk9diY3H_wU3bzj42i6NCaw)** — I believe teaching is part of my mission.
+-->
+
+<sub>🌎 João Pessoa, Brazil · 🎓 B.Sc. in Information Systems (UNIESP) · 🎓 Postgraduate — MBA in Full Stack Web Development (UNIESP)</sub>
+
+---
+
+### 🛠️ Tech Stack
+
+### AI
+
+<div>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/067/941/712/small_2x/claude-ai-logo-rounded-hd-free-png.png" height="45" alt="claude_code" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/GitHub_Copilot_logo.svg/3840px-GitHub_Copilot_logo.svg.png" height="25" alt="github_copilot" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzhTqiAvJOWDpNURKskdDuhpjUK3VDWZ64VbYb-QQ16A&s=10" height="35" alt="Devin" />
+</div>
+
+<div>
+<img src="https://freelogopng.com/images/all_img/1681142315open-ai-logo.png" height="25" alt="OpenAI" />
+<img src="https://d7umqicpi7263.cloudfront.net/img/product/76612b61-fc3a-4260-90bc-74004d7f8451.png" height="40" alt="Stackspot" />
+
+</div>
 
 ### Linguagens
 
@@ -104,11 +167,8 @@ Sou **QA Senior** com +9 anos de experiência em **automação de testes, engenh
 <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" height="40" alt="Grafana" />
 </div>
 
-### AI e Demais Ferramentas
+### Demais Ferramentas
 
-<div>
-<img src="https://freelogopng.com/images/all_img/1681142315open-ai-logo.png" height="25" alt="OpenAI" />
-<img src="https://d7umqicpi7263.cloudfront.net/img/product/76612b61-fc3a-4260-90bc-74004d7f8451.png" height="40" alt="Stackspot" />
 <img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" alt="JMeter" />
 </div>
 
