@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/🛠️ Tech Stack-F7A41D?style=for-the-badge" alt="Tech Stack"></a>
+<a href="#%EF%B8%8F-tech-stack"><img src="https://img.shields.io/badge/🛠️ Tech Stack-F7A41D?style=for-the-badge" alt="Tech Stack"></a>
 </p>
 
 <p align="center">
