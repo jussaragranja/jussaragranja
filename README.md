@@ -5,7 +5,7 @@
 
 <p align="center">
   <b>Foco na Engenharia de Qualidade com Inteligência Artificial</b><br/>
-  <sub>Senior Quality Engineer · AI for QA · Agentes de IA, LLMs & Spec-Driven Development</sub>
+  <sub>Senior Quality Engineer · AI for QA · Referência técnica cross QA · Agentes de IA, LLMs & Spec-Driven Development</sub>
 </p>
 
 <p align="center">
@@ -33,13 +33,14 @@
 
 > **"Testar não é encontrar erros. É garantir que a magia do software aconteça para todos."**
 
-Sou **Quality Engineer** há mais de **9 anos** e hoje meu foco é aproximar **QA e Inteligência Artificial** na prática, no dia a dia de quem testa.
+Sou **Quality Engineer** há mais de **9 anos** e hoje meu foco é aproximar **QA e Inteligência Artificial** na prática, atuando como **referência técnica cross** e ponto de apoio para **dúvidas de regra de negócio** no dia a dia de quem testa.
 
-Atuo ajudando QAs a **descomplicar o uso de IA**: crio **agentes com skills** que apoiam o trabalho do time, dissemino conhecimento e incentivo a adoção. Sabemos que IA não está aqui para substituir pessoas é muito mais sobre dar superpoderes a quem já garante qualidade. A ideia principal é melhorar o tempo dos QAs, permitindo que possam pensar mais e deixar as ações para a IA aplicar, permitindo executar os projetos planejados que ainda não foram iniciados.
+Atuo ajudando QAs a **descomplicar o uso de IA**: crio **agentes com skills** que apoiam o trabalho do time, dissemino conhecimento e incentivo a adoção. Também conecto squads, esclareço dúvidas de negócio e ajudo a manter uma visão consistente de qualidade e fluxo entre os times. Sabemos que IA não está aqui para substituir pessoas; ela serve para dar superpoderes a quem já garante qualidade e liberar tempo para decisões mais estratégicas.
 
 ### 🎯 No que estou trabalhando agora
 
 - 🏦 Dou **apoio técnico em IA e automação de testes** para os QAs da tribo **RT Home** do super app do **Itaú**
+- 🤝 Atuo como **referência técnica cross** para os QAs das squads da tribo **RT Home**, apoiando dúvidas de **regra de negócio** e consistência de qualidade
 - 🤖 Crio **novas skills para o nosso agent de qualidade** e mantenho as automações dos times (existentes e novas)
 - 🔁 Construo os agentes com **loop engineering**, **context engineering** e **prompt engineering**, seguindo **SDD**
 - 🛡️ Aplico **guardrails** e integro ferramentas via **MCP (Model Context Protocol)** para respostas mais confiáveis
@@ -67,15 +68,20 @@ Atuo ajudando QAs a **descomplicar o uso de IA**: crio **agentes com skills** qu
 
 ## 🇬🇧 English
 
+<p align="center">
+  <sub>Senior Quality Engineer · AI for QA · Cross-QA technical reference · AI Agents, LLMs & Spec-Driven Development</sub>
+</p>
+
 > **"Testing isn't about finding bugs. It's about making sure the magic of software happens for everyone."**
 
-I've been a **Quality Engineer** for **9+ years**, and today my focus is bringing **QA and AI together** — in practice, in the daily routine of the people who test.
+I've been a **Quality Engineer** for **9+ years**, and today my focus is bringing **QA and AI together** in practice, while acting as a **cross-QA technical reference** and support point for **business-rule questions** in the daily routine of the people who test.
 
-I help QAs **make AI approachable**: I build **agents with skills** that support the team's work, share knowledge, and drive adoption. To me, AI in quality isn't about replacing people — it's about giving superpowers to those who already ensure quality.
+I help QAs **make AI approachable**: I build **agents with skills** that support the team's work, share knowledge, and drive adoption. I also connect squads, clarify business questions, and help keep quality and flow aligned across teams. To me, AI in quality isn't about replacing people — it's about giving superpowers to those who already ensure quality and freeing time for more strategic decisions.
 
 ### 🎯 What I'm working on now
 
 - 🏦 I provide **technical support in AI and test automation** to the QAs of the **RT Home** tribe at **Itaú**'s super app
+- 🤝 I act as a **cross-QA technical reference** for the QAs across the **RT Home** squads, supporting **business-rule questions** and quality consistency
 - 🤖 I build **new skills for our quality agent** and maintain the teams' automations (existing and new)
 - 🔁 I build the agents with **loop engineering**, **context engineering** and **prompt engineering**, following **SDD**
 - 🛡️ I apply **guardrails** and integrate tools via **MCP (Model Context Protocol)** for more reliable responses
